@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Get booking by id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdbeea74-ecd1-4a06-b6aa-cc15ebbeb837</testCaseGuid>
+</TestCaseEntity>
