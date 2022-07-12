@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Juan - TC Auth Api
+Description: Test Case for Auth from restfull booker api</description>
+   <name>AP-9 Juan - TC Auth Api</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10031&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0005j:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar1.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;AP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;API Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Juan - TC Auth Api&quot;,&quot;description&quot;:&quot;Test Case for Auth from restfull booker api&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;juanfelixparsaoran@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Juan Felix&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/user?accountId\u003d70121%3Ad8aaa3b1-83fd-4819-b658-68efe1470e63&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;juanfelixparsaoran@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Juan Felix&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/user?accountId\u003d70121%3Ad8aaa3b1-83fd-4819-b658-68efe1470e63&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/AP-9/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/10027&quot;,&quot;key&quot;:&quot;AP-9&quot;,&quot;id&quot;:10027}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>ec82ea9b-5212-48c8-ae93-7e202d7a322f</testCaseGuid>
+</TestCaseEntity>
