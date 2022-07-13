@@ -39,19 +39,11 @@
       <value>Basic YWRtaW46cGFzc3dvcmQxMjM=</value>
       <webElementGuid>340a343e-f6f9-4874-8097-cf328e047225</webElementGuid>
    </httpHeaderProperties>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Cookie</name>
-      <type>Main</type>
-      <value>token=abc123</value>
-      <webElementGuid>dd61b111-0d92-4602-90de-52c3335d9082</webElementGuid>
-   </httpHeaderProperties>
    <katalonVersion>8.3.5</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>PUT</restRequestMethod>
-   <restUrl>https://restful-booker.herokuapp.com/booking/2385</restUrl>
+   <restUrl>https://restful-booker.herokuapp.com/booking/3673</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
