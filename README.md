@@ -25,3 +25,5 @@ This is project is a katalon project for testing https://restful-booker.herokuap
 ## Summary
 All the test case is 100% passed
 <br><br><br><br>
+
+#### Notes : mungkin id yang dipakai pada TC pada project ini untuk get/put/patch/delete sudah dihapus di databasenya, jd jika TC failed karena terkena method not allowed, itu dikarenakan idnya sudah termodifikasi di databasenya. Pakai id yg baru untuk mencoba kembali.
